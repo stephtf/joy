@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../coding-bootcamp/homework-4-code-quiz"
+		},
+		{
+			"path": "../coding-bootcamp/gt-virt-fsf-ft-12-2021-u-lol/01 - Class Content/03-JavaScript/01-Activities/01-Ins_Script-ConsoleLog"
+		},
+		{
+			"path": "../coding-bootcamp/gt-virt-fsf-ft-12-2021-u-lol"
+		},
+		{
+			"path": "../coding-bootcamp/coding-notes"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "joy"
+	}
+}

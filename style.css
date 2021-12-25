@@ -1,0 +1,54 @@
+* {
+    font-family: 'Indie Flower', cursive;
+    color: darkred;
+    font-size: 25px;
+    justify-content: center;
+}
+
+h1 {
+    font-family: 'Rock 3D', cursive;
+    font-size: 40px;
+    justify-content: center;
+    margin-left: 480px;
+    margin-top: 100px;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Shizuru', cursive;
+    color: black;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.para-1 {
+    display: none;
+}
+
+.para-2 {
+    display: none;
+}
+
+.para-3 {
+    display: none;
+}
+
+.para-4 {
+    display: none;
+}
+
+.para-5 {
+    display: none;
+}
+
+.para-6 {
+    display: none;
+}
+
+.para-7 {
+    display: none;
+}
+
+.para-8 {
+    display: none;
+}
