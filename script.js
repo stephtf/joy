@@ -60,7 +60,7 @@ var timerInterval = setInterval(function(){
         j = 0;
     }
 
-        }, 2000);
+        }, 4500);
 }
 
 setTime();
